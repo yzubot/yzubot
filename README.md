@@ -53,6 +53,16 @@ Email:yzubot@gmail.com
 可以回報關於課程問題或是程式問題，或是任何回報或建議
 
 
+### 程式快照
+
+![Screenshot1](https://raw.githubusercontent.com/yzubot/yzubot/13c0a1f12d8e9746426dc71204e9c38480488e4a/YZU%20Bot%20Screenshot1.png)
+![Screenshot2](https://raw.githubusercontent.com/yzubot/yzubot/0e94dc031d516394bb093dda1199e4d8f29fadd6/YZU%20Bot%20Screenshot2.png)
+![Screenshot3](https://raw.githubusercontent.com/yzubot/yzubot/af1034538c869179e48258bb1905a86a24f8a520/YZU%20Bot%20Screenshot3.png)
+![Screenshot4](https://raw.githubusercontent.com/yzubot/yzubot/12a8d61174adcbb60cab801ac571b732f67e8a2b/YZU%20Bot%20Screenshot4.png)
+![Screenshot5](https://raw.githubusercontent.com/yzubot/yzubot/17e377b57cf950ed5068f276ced2e8bb25870149/YZU%20Bot%20Screenshot5.png)
+![Screenshot6](https://raw.githubusercontent.com/yzubot/yzubot/f649f50690b733713189656382967284e5752342/YZU%20Bot%20Screenshot6.png)
+
+
 License
 ----
 Copyright (c) by Daniel
