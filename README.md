@@ -30,11 +30,11 @@
 ### 使用方法
 執行`YZU Bot.exe`，開啟主程式，輸入`Portal帳號密碼`，點擊`確定`
 
-![Screenshot3](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Screenshot3.png)
+![Screenshot3](https://raw.githubusercontent.com/yzubot/yzubot/af1034538c869179e48258bb1905a86a24f8a520/YZU%20Bot%20Screenshot3.png)
 
 至`選課`表單，選擇`系級`、`課名`，點擊`加入`
 
-![Screenshot3](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Screenshot6.png)
+![Screenshot6](https://raw.githubusercontent.com/yzubot/yzubot/f649f50690b733713189656382967284e5752342/YZU%20Bot%20Screenshot6.png)
 
 上述設定皆完成之後，按下`開始`
 
@@ -60,5 +60,5 @@ Copyright (c) by Daniel
 
    [驅動程式]: <https://1drv.ms/u/s!Apch_r0B3YCra31486OfLY7xVFQ>
    [驅動程式dropbox]: <https://www.dropbox.com/s/4ag4spicx18614s/%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F.zip?dl=0>
-   [主程式]: <https://github.com/yzubot/yzubot/raw/master/YZUbot%20Latest%20Build%201.4.zip>
+   [主程式]: <https://github.com/yzubot/yzubot/raw/master/YZUbot%20Latest%20Build%201.5.zip>
    
