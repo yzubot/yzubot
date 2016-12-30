@@ -28,7 +28,7 @@
 執行 YZU Bot Latest Build 1.x.exe
 ```
 ### 使用方法
-執行`YZU Bot.exe`，開啟主程式，輸入`Portal帳號密碼`，點擊`確定`
+執行`YZU Bot.exe`，開啟主程式，輸入`Portal帳號密碼
 
 ![Screenshot3](https://raw.githubusercontent.com/yzubot/yzubot/af1034538c869179e48258bb1905a86a24f8a520/YZU%20Bot%20Screenshot3.png)
 
