@@ -21,11 +21,11 @@
 點擊 是 或 確定 (若vcredist_x64、vcredist_x86已安裝過，可忽略安裝這兩個套件)
 安裝過程中請不要更改安裝目錄(位置)
 ```
-安裝完必要驅動程式後，請先下載[主程式]，並且解壓縮，壓縮後執行`YZU Bot.exe`
+安裝完必要驅動程式後，請先下載[主程式]，並且解壓縮，壓縮後執行 `YZU Bot 撈課神手 Latest Build 1.5.exe`
 ```sh
 下載 [主程式]
 解壓縮 [主程式]
-執行 YZU Bot Latest Build 1.x.exe
+執行 YZU Bot 撈課神手 Latest Build 1.5.exe
 ```
 ### 使用方法
 執行`YZU Bot.exe`，開啟主程式，輸入`Portal`帳號密碼
