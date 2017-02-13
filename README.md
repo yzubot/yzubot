@@ -26,11 +26,11 @@
 ```
 
 
-安裝完必要驅動程式後，請先下載[主程式]，並且解壓縮，壓縮後執行 `YZU Bot 撈課神手 Latest Build 1.5.exe`
+安裝完必要驅動程式後，請先下載[主程式]，並且解壓縮，壓縮後執行 `YZU Bot 撈課神手 Latest Build 1.6.exe`
 ```sh
 下載 [主程式]
 解壓縮 [主程式]
-執行 YZU Bot 撈課神手 Latest Build 1.5.exe
+執行 YZU Bot 撈課神手 Latest Build 1.6.exe
 ```
 ### 使用方法
 執行`YZU Bot.exe`，開啟主程式，輸入`Portal`帳號密碼
