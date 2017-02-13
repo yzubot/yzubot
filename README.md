@@ -78,5 +78,5 @@ Copyright (c) by Daniel
 
    [驅動程式]: <https://1drv.ms/u/s!Apch_r0B3YCrbQy1PJdiSsxXUX8>
    [驅動程式dropbox]: <https://www.dropbox.com/s/4ag4spicx18614s/%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F.zip?dl=0>
-   [主程式]: <https://github.com/yzubot/yzubot/raw/master/YZU%20Bot%20Latest%20Build%201.5.zip>
+   [主程式]: <https://github.com/yzubot/yzubot/raw/master/YZU%20Bot%20Latest%20Build%201.6.zip>
    
