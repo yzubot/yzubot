@@ -12,21 +12,21 @@
 選擇妳/你喜歡的課，撈至自己的課表
 
 ### 安裝方法 
-第一次使用安裝，請先下載[驅動程式]並且解壓縮，壓縮後執行`驅動安裝(點我).bat`，接下來的步驟，點擊`是`或`確定`，`安裝過程中請不要更改安裝目錄(位置)`
+第一次使用安裝，請先下載[setup]並且安裝，接下來的步驟，點擊`是`或`確定`或`下一步`，`安裝過程中請不要更改安裝目錄(位置)`
 
-若上一學期有使用過之使用者，也請下載[驅動程式]，並且解壓縮，再點擊`YZU Course`進行解壓縮，並且覆蓋全部壓縮內容，即可使用`主程式`
+若上一學期有使用過之使用者，也請下載[setup]，並且安裝
 
 第一次使用安裝 :
 ```sh
-下載 [驅動程式]
-解壓縮 [驅動程式]
-執行 驅動安裝(點我).bat
-點擊 是 或 確定 (若vcredist_x64、vcredist_x86已安裝過，可忽略安裝這兩個套件)
+下載 [setup]
+點擊安裝 [setup]
+點擊 是 或 確定 或 下一步 (若vcredist_x64、vcredist_x86已安裝過，可忽略安裝這兩個套件)
+
 安裝過程中請不要更改安裝目錄(位置)
 ```
 
 
-安裝完必要驅動程式後，請先下載[主程式]，並且解壓縮，壓縮後執行 `YZU Bot 撈課神手 Latest Build 1.6.exe`
+安裝完後，將會自動執行 `YZU Bot 撈課神手 Latest Build 1.6.exe`
 ```sh
 下載 [主程式]
 解壓縮 [主程式]
@@ -76,7 +76,5 @@ License
 Copyright (c) by Daniel
 
 
-   [驅動程式]: <https://1drv.ms/u/s!Apch_r0B3YCrbQy1PJdiSsxXUX8>
-   [驅動程式dropbox]: <https://www.dropbox.com/s/4ag4spicx18614s/%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F.zip?dl=0>
-   [主程式]: <https://github.com/yzubot/yzubot/raw/master/YZU%20Bot%20Latest%20Build%201.6.zip>
+   [setup]: <https://drive.google.com/file/d/1TK2BdsEXCL-GYoWkLGZfZUQ1SoiWlIoX/view?usp=sharing>
    
