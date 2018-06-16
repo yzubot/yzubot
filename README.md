@@ -24,7 +24,7 @@
 安裝過程中請不要更改安裝目錄(位置)
 ```
 
-### 安裝方法
+### 安裝步驟
 執行`setup.exe`
 
 ![SetupSC1](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Setup%20SC1_NEW.png)
