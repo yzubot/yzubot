@@ -27,7 +27,7 @@
 ### 安裝方法
 執行`setup.exe`
 
-![SetupSC1](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Setup%20SC1.png)
+![SetupSC1](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Setup%20SC1_NEW.png)
 
 點擊 `下一步`
 
