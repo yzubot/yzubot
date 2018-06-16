@@ -25,15 +25,35 @@
 安裝過程中請不要更改安裝目錄(位置)
 ```
 
+### 安裝方法
+執行`setup.exe`
 
-安裝完後，將會自動執行 `YZU Bot 撈課神手 Latest Build 1.6.exe`
-```sh
-下載 [主程式]
-解壓縮 [主程式]
-執行 YZU Bot 撈課神手 Latest Build 1.6.exe
-```
+![SetupSC1](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Setup%20SC1.png)
+點擊 `下一步`
+
+![SetupSC2](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Setup%20SC2.png)
+點擊 `安裝`
+
+![SetupSC3](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Setup%20SC3.png)
+勾選 `啟動程式` 並且點擊 `完成`
+
+![SetupSC4](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Setup%20SC4.png)
+點擊 `Next`
+
+![SetupSC5](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Setup%20SC5.png)
+勾選 `我同意授權條款及條件` 並且點擊 `安裝` (若vcredist_x64已安裝過，可忽略安裝這個套件)
+
+![SetupSC6](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Setup%20SC6.png)
+勾選 `我同意授權條款及條件` 並且點擊 `安裝` (若vcredist_x86已安裝過，可忽略安裝這個套件)
+
+![SetupSC7](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20Setup%20SC7.png)
+點擊 `是`
+
+安裝完後，將會自動執行 `YZU Bot 撈課神手 Latest Build 1.7.exe`
+
+
 ### 使用方法
-執行`YZU Bot.exe`，開啟主程式，輸入`Portal`帳號密碼
+執行`YZUBOT.exe`，開啟主程式，輸入`Portal`帳號密碼
 
 ![Screenshot3](https://raw.githubusercontent.com/yzubot/yzubot/af1034538c869179e48258bb1905a86a24f8a520/YZU%20Bot%20Screenshot3.png)
 
