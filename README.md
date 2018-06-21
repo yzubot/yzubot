@@ -11,9 +11,9 @@
 選擇妳/你喜歡的課，撈至自己的課表
 
 ### 安裝方法
-第一次使用安裝，請先下載[setup(Google空間)]或[setup(MEGA空間)]並且安裝，接下來的步驟，點擊`是`或`確定`或`下一步`，`安裝過程中請不要更改安裝目錄(位置)`
+第一次使用安裝，請先下載[setup]或[setup]並且安裝，接下來的步驟，點擊`是`或`確定`或`下一步`，`安裝過程中請不要更改安裝目錄(位置)`
 
-若上一學期有使用過之使用者，也請下載[setup(Google空間)]或[setup(MEGA空間)]，並且安裝
+若上一學期有使用過之使用者，也請下載[setup]或[setup]，並且安裝
 
 第一次使用安裝 :
 ```sh
@@ -124,11 +124,19 @@ Email:yzubot@gmail.com
 ![SC6](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20SC6.png)
 
 
+### 程式備份下載
+
+Google空間:[setup(Google空間)]
+
+MEGA空間:[setup(MEGA空間)]
+
+
+
 License
 ----
 Copyright (c) by Daniel
 
-
+   [setup]: <https://mega.nz/#!DeZWCAgB!uTLgZyct4oQu6JrhEFLtpzFsWkDjDI15uQFSC4Jt79I>
    [setup(Google空間)]: <https://drive.google.com/file/d/1G5GPgN7PgbFwsIj3kySQSI6_iIpNO9gL/view?usp=sharing>
    [setup(MEGA空間)]: <https://mega.nz/#!DeZWCAgB!uTLgZyct4oQu6JrhEFLtpzFsWkDjDI15uQFSC4Jt79I>
    
