@@ -132,7 +132,7 @@ MEGA空間:[setup(MEGA空間)]
 
 
 
-<a href="http://www.youtube.com/watch?v=jNQXAC9IVRw" target="_blank"><img src="http://img.youtube.com/vi/jNQXAC9IVRw/0.jpg"></img></a>
+<a href="https://mega.nz/#!DeZWCAgB!uTLgZyct4oQu6JrhEFLtpzFsWkDjDI15uQFSC4Jt79I" target="_blank">setup</a>
 
 License
 ----
