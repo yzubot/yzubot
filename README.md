@@ -136,7 +136,7 @@ License
 ----
 Copyright (c) by Daniel
 
-   [setup]: <https://mega.nz/#!DeZWCAgB!uTLgZyct4oQu6JrhEFLtpzFsWkDjDI15uQFSC4Jt79I>
+   [setup]: <a href="https://mega.nz/#!DeZWCAgB!uTLgZyct4oQu6JrhEFLtpzFsWkDjDI15uQFSC4Jt79I" target="_blank"></a>
    [setup(Google空間)]: <https://drive.google.com/file/d/1G5GPgN7PgbFwsIj3kySQSI6_iIpNO9gL/view?usp=sharing>
    [setup(MEGA空間)]: <https://mega.nz/#!DeZWCAgB!uTLgZyct4oQu6JrhEFLtpzFsWkDjDI15uQFSC4Jt79I>
    
