@@ -131,9 +131,6 @@ Google空間:[setup(Google空間)]
 MEGA空間:[setup(MEGA空間)]
 
 
-
-<a href="https://mega.nz/#!DeZWCAgB!uTLgZyct4oQu6JrhEFLtpzFsWkDjDI15uQFSC4Jt79I" target="_blank">setup</a>
-
 License
 ----
 Copyright (c) by Daniel
