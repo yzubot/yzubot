@@ -105,6 +105,9 @@
 ![SC9](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20SC9.png)
 
 
+`遇到程式錯誤時` : 請先下載[setup錯誤修正版BETA]試試看，若還是無法使用，請截圖並且聯絡我
+
+
 ### `享受妳/你的自動化選課吧!`
 
 ### 聯絡我
@@ -138,5 +141,6 @@ Copyright (c) by Daniel
    [setup]: <https://mega.nz/#!DeZWCAgB!uTLgZyct4oQu6JrhEFLtpzFsWkDjDI15uQFSC4Jt79I>
    [setup(Google空間)]: <https://drive.google.com/file/d/1G5GPgN7PgbFwsIj3kySQSI6_iIpNO9gL/view?usp=sharing>
    [setup(MEGA空間)]: <https://mega.nz/#!DeZWCAgB!uTLgZyct4oQu6JrhEFLtpzFsWkDjDI15uQFSC4Jt79I>
+   [setup錯誤修正版BETA]: <https://mega.nz/#!XbhzmIiZ!t6HGVRLmJ2JSbvNstQMfla7maa-llhfdyLVAbQwh4f0>
    
    
