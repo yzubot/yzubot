@@ -105,7 +105,7 @@
 ![SC9](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20SC9.png)
 
 
-`遇到程式錯誤時` : 請先至控制台將本程式移除，再下載[setup錯誤修正版BETA]安裝試試看，若還是無法使用，請截圖並且聯絡我
+`遇到程式錯誤時` : 請先至控制台將原本程式移除，再下載[setup錯誤修正版BETA]安裝試試看，若還是無法使用，請截圖並且聯絡我
 
 
 ### `享受妳/你的自動化選課吧!`
