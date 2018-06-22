@@ -105,8 +105,9 @@
 ![SC9](https://raw.githubusercontent.com/yzubot/yzubot/master/YZU%20Bot%20SC9.png)
 
 
-`遇到程式錯誤時` : 請先至控制台將原本程式移除，再下載[setup錯誤修正版BETA]安裝試試看，若還是無法使用，請截圖並且聯絡我
-
+`遇到程式錯誤時` : 
+程式顯示找不到檔案 : 請先至控制台將原本程式移除，再下載[setup錯誤修正版BETA]安裝試試看，若還是無法使用，請截圖並且聯絡我
+程式卡在選擇選課系統(帳號登入畫面) : 請先至控制台將原本程式移除，再下載[setup解析度修正版BETA]安裝試試看，若還是無法使用，請截圖並且聯絡我(此版本僅限於107年第一學期第二階段選課使用)
 
 ### `享受妳/你的自動化選課吧!`
 
@@ -142,5 +143,6 @@ Copyright (c) by Daniel
    [setup(Google空間)]: <https://drive.google.com/file/d/1G5GPgN7PgbFwsIj3kySQSI6_iIpNO9gL/view?usp=sharing>
    [setup(MEGA空間)]: <https://mega.nz/#!DeZWCAgB!uTLgZyct4oQu6JrhEFLtpzFsWkDjDI15uQFSC4Jt79I>
    [setup錯誤修正版BETA]: <https://mega.nz/#!XbhzmIiZ!t6HGVRLmJ2JSbvNstQMfla7maa-llhfdyLVAbQwh4f0>
+   [setup解析度修正版BETA]: <https://mega.nz/#!CSoAEATI!UEpM7CIwCve901kOcSuCx1k3vbd0d6I7H5EySx0Fh3o>
    
    
